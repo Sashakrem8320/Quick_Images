@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="image_desc">Displayed Image</string>
+    <string name="load_image">Load Image</string>
+    <string name="no_image">No image to save!</string>
+    <string name="image_saved">Image saved as number: %1$d</string>
+    <string name="image_not_found">Image number %1$d does not exist!</string>
+</resources>
