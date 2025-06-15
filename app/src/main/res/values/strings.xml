@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyApplication</string>
+    <string name="app_name">Быстрые изображения</string>
     <string name="image_desc">Displayed Image</string>
     <string name="load_image">Load Image</string>
     <string name="no_image">No image to save!</string>
